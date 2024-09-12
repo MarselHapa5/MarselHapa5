@@ -7,3 +7,5 @@
 Im regular russian guy (except that since childhood I have been fond of technology in all its directions) who want to work with technics.
 Programming languages that, I am study, you can see in my repositories.
 
+P.S Я не забросил программирование, просто не веду гитхаб...
+
