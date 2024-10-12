@@ -8,4 +8,5 @@ Im regular russian guy (except that since childhood I have been fond of technolo
 Programming languages that, I am study, you can see in my repositories.
 
 P.S Я не забросил программирование, просто не веду гитхаб...
+P.S.S Собираюсь активно вести гитхаб (12.10.24)
 
